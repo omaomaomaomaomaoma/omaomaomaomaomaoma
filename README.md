@@ -3,7 +3,7 @@
 
 ## So I make things what solve my problems and share it with others.
 
-## alehandrsh@outlook.com
+## 
 <!--
 **omaomaomaomaomaoma/omaomaomaomaomaoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
