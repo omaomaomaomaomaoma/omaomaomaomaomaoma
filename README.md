@@ -1,7 +1,9 @@
 
 # Life is a cycle of death and rebirth, so doing the best we can in the face of this fragility is the meaning of life. Doing everything we can while we can.
 
-## So I make things what solve my problems
+## So I make things what solve my problems and share it with others.
+
+## alehandrsh@outlook.com
 <!--
 **omaomaomaomaomaoma/omaomaomaomaomaoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
