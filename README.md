@@ -1,7 +1,6 @@
 
-# Life is a cycle of death and rebirth, so doing the best we can in the face of this fragility is the meaning of life. Doing everything we can while we can.
 
-## So I make things what solve my problems and share it with others.
+## I make things what solve my problems and share it with others.
 
 ## 
 <!--
